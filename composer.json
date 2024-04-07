@@ -12,7 +12,7 @@
             "name": "edilson silva",
             "email": "edilsonprojetosgits@gmail.com"
         }
-    ]
-  
+    ],
+    "minimum-stability": "dev"
    
 }
